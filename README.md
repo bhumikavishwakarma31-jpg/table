@@ -1,2 +1,2 @@
-# table
-we are creating table in html
+# Profile
+we are creating profile in html
